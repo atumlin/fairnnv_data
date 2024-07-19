@@ -1,0 +1,2 @@
+Model File,Model,Classification Accuracy,Balanced Accuracy,Disparate Impact,Equal Opportunity Difference,Average Odds Difference,Precision,Recall,F1
+BM-7.keras,Plain Model,0.889963922597573,0.7118549851639939,1.475997339196955,-0.12025075987841943,-0.040096407957066454,0.7608298191120044,0.7118549851639939,0.7324347789183541
